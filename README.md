@@ -20,6 +20,9 @@ E-BUVETTE est une application web pour la gestion de la buvette de manière effi
 - Modifiez les informations de connexion à la base de données dans le fichier includes/info.inc.php
 - Ouvrez le projet dans votre navigateur.
 
+## Demo Vidéo
+Pour regarder la vidéo démonstrative: [Cliquez ici](https://drive.google.com/file/d/1u4-wjNJ-xsF6_g_CDMnpgn_w3e588FQ8/view)
+
 ## Contributeurs
 - [Chentoui Abdelali](https://github.com/AbdelaliChe)
 - [El Hajoui Meriyem](https://github.com/Meriyemelhajoui)
